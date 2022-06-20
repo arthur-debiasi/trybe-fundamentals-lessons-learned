@@ -1,3 +1,8 @@
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
+}
+/* id cabecalho com position fixed e top de 0px */
+#cabecalho {
+  position: fixed;
+  top: 0px;
 }
