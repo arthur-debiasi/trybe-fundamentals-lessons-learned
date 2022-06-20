@@ -5,5 +5,5 @@ body {
 /* id cabecalho com position fixed e top de 0px */
 #cabecalho {
   position: fixed;
-  top: 0px;
+  top: 0;
 }
