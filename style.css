@@ -1,9 +1,20 @@
 body {
   background-color: rgb(253, 251, 251);
+  font-family: 'IBM Plex Mono', monospace;
+  color: rgb(25 , 45, 65);
+  font-size: 1.7vh;
 }
-
+li {
+    line-height: 2em;
+}
 /* id cabecalho com position fixed e top de 0px */
 #cabecalho {
   position: fixed;
   top: 0;
 }
+
+#titulo {
+    font-size: 3em;
+}
+
+
