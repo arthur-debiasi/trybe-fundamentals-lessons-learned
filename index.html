@@ -19,7 +19,7 @@
       <!-- R2: h1 com id titulo -->
       <h1 id="titulo">Lições Aprendidas</h1>
     </header>
-    <main>
+    <main class="lado-direito">
       <!-- R3: imagem img#minha_foto -->
       <img
         id="minha_foto"
@@ -38,32 +38,44 @@
           semper.
         </p>
       </article>
-      <ol id="licoes_aprendidas">
-        <li>Unix</li>
-        <li>Git</li>
-        <li>GitHub</li>
-        <li>Empatia</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Slack</li>
-        <li>Zoom</li>
-        <li>Inspect</li>
-        <li>HTML Semântico</li>
-      </ol>
-      <ul id="licoes_a_aprender">
-        <li>JavaScript</li>
-        <li>DOM</li>
-        <li>Forms</li>
-        <li>CSS Responsive</li>
-        <li>ES6</li>
-        <li>HOF</li>
-        <li>Unit Tests</li>
-        <li>React</li>
-        <li>Node</li>
-        <li>SQL</li>
-      </ul>
+      <table class="tabela-licoes">
+        <tr>
+          <th>Lições aprendidas</th>
+          <th>Lições a aprender</th>
+        </tr>
+        <tr>
+          <th>
+            <ol id="licoes_aprendidas">
+              <li>Unix</li>
+              <li>Git</li>
+              <li>GitHub</li>
+              <li>Empatia</li>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>Slack</li>
+              <li>Zoom</li>
+              <li>Inspect</li>
+              <li>HTML Semântico</li>
+            </ol>
+          </th>
+          <th>
+            <ul id="licoes_a_aprender">
+              <li>JavaScript</li>
+              <li>DOM</li>
+              <li>Forms</li>
+              <li>CSS Responsive</li>
+              <li>ES6</li>
+              <li>HOF</li>
+              <li>Unit Tests</li>
+              <li>React</li>
+              <li>Node</li>
+              <li>SQL</li>
+            </ul>
+          </th>
+        </tr>
+      </table>
     </main>
-    <aside>
+    <aside class="lado-esquerdo">
       <h2 id="description_title">Sobre</h2>
       <p id="description_text">
         Sou Bacharel em Engenharia Ambiental e estou como pessoa estudante na
