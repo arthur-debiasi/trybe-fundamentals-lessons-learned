@@ -1,5 +1,4 @@
-# fundamentals-lessons-learned
-[Trybe](https://www.betrybe.com/) Project - Lessons Learned
+# [Trybe](https://www.betrybe.com/) Project - Lessons Learned
 
 ## 💻 Project
 A page about lessons that we've learned on the first 3 blocks as Trybe.
