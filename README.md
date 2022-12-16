@@ -5,7 +5,7 @@ A page about lessons that we've learned on the first 3 blocks as Trybe.
 
 ## 🚀 Built With
 
-> [![Javascript][Javascript]][Javascript-url][![React][React.js]][React-url]
+> [![Javascript][Javascript]][Javascript-url][![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 ## 📌 Skills
 
@@ -32,5 +32,9 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
 
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
 [Javascript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+[HTML5]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[CSS3]: https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
