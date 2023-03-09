@@ -1,4 +1,4 @@
-# [Trybe](https://www.betrybe.com/) Project - [Lessons Learned](https://arthur-debiasi.github.io/fundamentals-lessons-learned/)
+# [Trybe](https://www.betrybe.com/) Project - [Lessons Learned](https://arthur-debiasi.github.io/trybe-fundamentals-lessons-learned/)
 
 ## 💻 Project
 A page about lessons that we've learned on the first 3 blocks as Trybe.
